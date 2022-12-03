@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-from icalendar import Calendar,Event
+
+from iCal import iCal
+from week import week
 
 url = "http://bangumi.tv/calendar"
 
@@ -23,6 +25,15 @@ calendar = {
     "fri": soup.select_one("dd.Fri"),
     "sat": soup.select_one("dd.Sat"),
 }
+week = week()
+weekday = {
+    "mon": week.Monday,
+    "tue": week.Tuesday,
+    "wed": week.Wednesday,
+    "thu": week.Thursday,
+    "fri": week.Friday,
+    "sat": week.Saturday,
+}
 
 for key in calendar.keys():
     temp = calendar.get(key)
@@ -32,8 +43,11 @@ for key in calendar.keys():
         list.append(i.select_one("a").get_text() + "/" + i.select_one("em").get_text())
     calendar[key] = list
 
-# 定制时间，目前先这样认为
+cal = iCal()
 
-# 构建ics文件
-cal = Calendar()
+for key in calendar.keys():
+    list = calendar[key]
+    for i in list:
+        cal.setEvent(i, weekday[key])
 
+cal.display().write()
