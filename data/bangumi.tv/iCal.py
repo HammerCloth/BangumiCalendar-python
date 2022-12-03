@@ -1,4 +1,6 @@
-from datetime import date
+import datetime
+import uuid
+from datetime import date,datetime
 
 from icalendar import Calendar, Event
 
@@ -14,13 +16,17 @@ class iCal:
 
     def setEvent(self, summary, time):
         event = Event()
-        event.add('summary', summary)
+        event.add('dtstamp', datetime.today().date(), parameters={'VALUE': 'DATE'})
+        event.add('uid', uuid.uuid1())
         event.add('dtstart', time, parameters={'VALUE': 'DATE'})
-        event.add('dtend', time, parameters={'VALUE': 'DATE'})
+        event.add('class', 'PUBLIC')
+        event.add('summary', summary)
         # event.add('dtstamp', datetime.now(tz=pytz.timezone('cn')))
-        event.add('uid', "18552541076@163.com")
         # event.add("sequence", "0")
-        event.add("descripion", summary)
+        event.add("TRANSP", "TRANSPARENT")
+        # event.add("descripion", summary)
+        event.add("X-APPLE-UNIVERSAL-ID", "42902458-1dd4-5105-04d0-2dccc0194c5f")
+
         self.cal.add_component(event)
         return self
 
