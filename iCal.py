@@ -5,7 +5,7 @@ from icalendar import Calendar, Event
 
 class iCal:
     def __init__(self):
-        g = open("./ical/BEGIN:VCALENDAR.ics", "rb")
+        g = open("BEGIN:VCALENDAR.ics", "rb")
         self.cal = Calendar.from_ical(g.read())
 
     def display(self):
@@ -26,10 +26,11 @@ class iCal:
         return self
 
     def write(self):
-        f = open("./ical/target.ics", "wb")
+        f = open("target.ics", "wb")
         f.write(self.cal.to_ical())
         f.close()
         return self
+
 
 if __name__ == '__main__':
     iCal().display().write()
