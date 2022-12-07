@@ -1,6 +1,7 @@
 import util
 from iCal import iCal
 from reptile import data
+import os
 
 '''
 step 1 通过用户名获取订阅的番组id
@@ -9,7 +10,8 @@ step 3 将信息进行整合导出到ics
 '''
 
 if __name__ == '__main__':
-    userid = "746322"
+    # userid = "746322"
+    userid = os.environ["USERID"]
     data = data(userid)
     # step 1 通过用户名获取订阅的番组id
     data.getsubjects()
