@@ -48,4 +48,4 @@ jobs:
 
 env:
   #设置secrets的环境变量
-  COOKIE1: ${{ secrets.USERID }}
+  USERID: ${{ secrets.USERID }}
