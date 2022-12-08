@@ -1,5 +1,7 @@
 # 基于GitHub Action建立bgm番剧Mac日历订阅服务
 
+![image](https://github.com/HammerCloth/BangumiCalendar-python/blob/main/IMG/iShot_2022-12-07_22.08.47.png)
+
 ​	通过bgm开放的api，获取用户所有在看的番剧id以及相关章节信息，生成ics文件，然后通过github中的文件链接，导入到mac自带的日历中，实现日历订阅，不需要专门的服务器来实现。
 
 ## 项目目录
