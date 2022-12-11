@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
   schedule:
     # 定时任务，在每天的22点 6点执行
-    - cron: 0 0 6,22 * * ?
+    - cron:  0 22,6 * * *
       # 定时器更改时间
       # https://tool.lu/crontab/
       # https://datetime360.com/cn/utc-cst-china-time/ #UTC时间 国际协调时间+8=北京时间
