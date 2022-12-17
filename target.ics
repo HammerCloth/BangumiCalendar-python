@@ -355,11 +355,12 @@ DTSTART;VALUE=DATE:20231224
 DTSTAMP;VALUE=DATE:20221217
 UID:348699-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔界の大悪魔サリバンの孫となり彼
- が理事長を務める悪魔に通うことになった\n人間の少年
- ・鈴木入間の、悪魔学校での奮闘と成長を描く\nアニメ
- 「魔入りました！入間くん」\n\n第3シリーズでは入間に
- 次なる試練が——\nそれは魔界の巨大ジャングルに
+DESCRIPTION:「将愿望寄托于弓矢」\n\n\n魔界の大悪魔サリ
+ バンの孫となり彼が理事長を務める悪魔に通うことに
+ なった\n人間の少年・鈴木入間の、悪魔学校での奮闘と
+ 成長を描く\nアニメ「魔入りました！入間くん」\n\n第3
+ シリーズでは入間に次なる試練が——\nそれは魔界の巨
+ 大ジャングルに
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -375,6 +376,21 @@ DESCRIPTION:「哼起来！今天起成为秋叶原的女仆新人！」\n
  猪崽小屋”的女仆咖啡今天也在营业中！一起新入职的
  新人女仆破天荒的竟是击球手。人气女仆、驯兽师以及
  秋叶原外生命体也会出现，红色球棒全力一挥！这
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:秋叶原冥途战争 0
+DTSTART;VALUE=DATE:20221013
+DTSTAMP;VALUE=DATE:20221217
+UID:389450-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n1999年春，因为憧憬可爱的女仆，一位
+ 少女来到了秋叶原。世纪末的秋叶原，有许多各式各样
+ 的女仆。俗称“猪崽小屋”的女仆咖啡今天也在营业中
+ ！一起新入职的新人女仆破天荒的竟是击球手。人气女
+ 仆、驯兽师以及秋叶原外生命体也会出现，红色球棒全
+ 力一挥！这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -533,21 +549,6 @@ SUMMARY:秋叶原冥途战争 12
 DTSTART;VALUE=DATE:20221222
 DTSTAMP;VALUE=DATE:20221217
 UID:389450-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n1999年春，因为憧憬可爱的女仆，一位
- 少女来到了秋叶原。世纪末的秋叶原，有许多各式各样
- 的女仆。俗称“猪崽小屋”的女仆咖啡今天也在营业中
- ！一起新入职的新人女仆破天荒的竟是击球手。人气女
- 仆、驯兽师以及秋叶原外生命体也会出现，红色球棒全
- 力一挥！这
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:秋叶原冥途战争 0
-DTSTART;VALUE=DATE:20221013
-DTSTAMP;VALUE=DATE:20221217
-UID:389450-0-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n1999年春，因为憧憬可爱的女仆，一位
  少女来到了秋叶原。世纪末的秋叶原，有许多各式各样
@@ -982,12 +983,12 @@ DTSTART;VALUE=DATE:20221217
 DTSTAMP;VALUE=DATE:20221217
 UID:373267-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「母亲的角色与妻子的角色／和朋友去购物」\n
- \n\n　　人人都有不愿对他人露出的一面。\n　　这是一
- 个情报战的年代，全球各国都全力参与其中，表面上却
- 不动声色。\n　　东国和西国已陷入冷战长达十多年。“
- 黄昏”是一名顶尖间谍，隶属西国专门对付东国的情报
- 局 WISE。他奉命执行一项秘密任务：追踪东
+DESCRIPTION:「母亲角色与妻子角色／和朋友购物」\n\n\n　
+ 　人人都有不愿对他人露出的一面。\n　　这是一个情报
+ 战的年代，全球各国都全力参与其中，表面上却不动声
+ 色。\n　　东国和西国已陷入冷战长达十多年。“黄昏”
+ 是一名顶尖间谍，隶属西国专门对付东国的情报局 WISE。
+ 他奉命执行一项秘密任务：追踪东
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -997,11 +998,12 @@ DTSTART;VALUE=DATE:20221224
 DTSTAMP;VALUE=DATE:20221217
 UID:373267-13-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　人人都有不愿对他人露出的一面
- 。\n　　这是一个情报战的年代，全球各国都全力参与其
- 中，表面上却不动声色。\n　　东国和西国已陷入冷战长
- 达十多年。“黄昏”是一名顶尖间谍，隶属西国专门对
- 付东国的情报局 WISE。他奉命执行一项秘密任务：追踪东
+DESCRIPTION:「接敌作战」\n\n\n　　人人都有不愿对他人露
+ 出的一面。\n　　这是一个情报战的年代，全球各国都全
+ 力参与其中，表面上却不动声色。\n　　东国和西国已陷
+ 入冷战长达十多年。“黄昏”是一名顶尖间谍，隶属西
+ 国专门对付东国的情报局 WISE。他奉命执行一项秘密任务
+ ：追踪东
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
