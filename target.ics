@@ -605,6 +605,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:孤独摇滚！ 0
+DTSTART;VALUE=DATE:20221001
+DTSTAMP;VALUE=DATE:20221219
+UID:328609-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
+ 好评的后藤一里，在现实中却是个什么都不会的沟通障
+ 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
+ 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
+ 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
+ 全没有和他人合作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:孤独摇滚！ 3
 DTSTART;VALUE=DATE:20221022
 DTSTAMP;VALUE=DATE:20221219
@@ -616,6 +631,21 @@ DESCRIPTION:「火速增员」\n\n\n作为网络吉他手“吉他英雄
  向人主动搭话而一直没有成功，直到一天在公园中被伊
  地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。
  可是，完全没有和他人合作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:孤独摇滚！ 0
+DTSTART;VALUE=DATE:20221207
+DTSTAMP;VALUE=DATE:20221219
+UID:328609-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
+ 好评的后藤一里，在现实中却是个什么都不会的沟通障
+ 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
+ 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
+ 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
+ 全没有和他人合作
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -751,36 +781,6 @@ DESCRIPTION:「晨光落在你身上」\n\n\n作为网络吉他手“吉
  为不敢向人主动搭话而一直没有成功，直到一天在公园
  中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐
  队”。可是，完全没有和他人合作
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:孤独摇滚！ 0
-DTSTART;VALUE=DATE:20221001
-DTSTAMP;VALUE=DATE:20221219
-UID:328609-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
- 好评的后藤一里，在现实中却是个什么都不会的沟通障
- 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
- 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
- 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
- 全没有和他人合作
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:孤独摇滚！ 0
-DTSTART;VALUE=DATE:20221207
-DTSTAMP;VALUE=DATE:20221219
-UID:328609-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
- 好评的后藤一里，在现实中却是个什么都不会的沟通障
- 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
- 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
- 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
- 全没有和他人合作
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1458,11 +1458,12 @@ DTSTART;VALUE=DATE:20221222
 DTSTAMP;VALUE=DATE:20221219
 UID:339326-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n2017年秋，敬文的舅舅17岁时被卡车撞
- 上，从此陷入昏迷，直到17年后他奇迹般苏醒。\n敬文去
- 医院探望舅舅，却只见他独自胡言乱语，宣称自己是从
- 大巴哈马鲁异世界归来。\n......舅舅的脑袋显然是坏掉了
- 。\n敬文不知所措，但舅舅却施展魔法，
+DESCRIPTION:「名字是很重要的，她这样说道」\n\n\n2017年秋
+ ，敬文的舅舅17岁时被卡车撞上，从此陷入昏迷，直到17
+ 年后他奇迹般苏醒。\n敬文去医院探望舅舅，却只见他独
+ 自胡言乱语，宣称自己是从大巴哈马鲁异世界归来。\n...
+ ...舅舅的脑袋显然是坏掉了。\n敬文不知所措，但舅舅却
+ 施展魔法，
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
