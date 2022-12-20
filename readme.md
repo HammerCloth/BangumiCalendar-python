@@ -41,3 +41,4 @@ value ： 你的bgm用户id
 https://raw.githubusercontent.com/{你的github用户名}/BangumiCalendar-python/main/target.ics
 ```
 
+> 如果在使用项目中遇到问题，欢迎提issues！！！！！！！
