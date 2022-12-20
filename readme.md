@@ -1,4 +1,5 @@
 # 基于GitHub Action建立bgm番剧Mac日历订阅服务
+> 如果在使用项目中遇到问题，欢迎提issues！！！！！！！
 
 ![image](https://github.com/HammerCloth/BangumiCalendar-python/blob/main/IMG/iShot_2022-12-07_22.08.47.png)
 
@@ -41,4 +42,4 @@ value ： 你的bgm用户id
 https://raw.githubusercontent.com/{你的github用户名}/BangumiCalendar-python/main/target.ics
 ```
 
-> 如果在使用项目中遇到问题，欢迎提issues！！！！！！！
+
