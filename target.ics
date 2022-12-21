@@ -190,12 +190,12 @@ DTSTART;VALUE=DATE:20221220
 DTSTAMP;VALUE=DATE:20221221
 UID:321885-11-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　电次是个背负了父亲遗留下的庞
- 大债务，因此过着极端贫穷生活的少年，他救了恶魔啵
- 奇塔，并与它一起以恶魔猎人的身份斩杀低阶恶魔来换
- 取酬劳。有一天，流氓骗了电次，让他成为一堆恶魔的
- 祭品，电次在临死之际，啵奇塔牺牲自己，把心脏给了
- 他，让他复活并拥
+DESCRIPTION:「作战开始」\n\n\n　　电次是个背负了父亲遗
+ 留下的庞大债务，因此过着极端贫穷生活的少年，他救
+ 了恶魔啵奇塔，并与它一起以恶魔猎人的身份斩杀低阶
+ 恶魔来换取酬劳。有一天，流氓骗了电次，让他成为一
+ 堆恶魔的祭品，电次在临死之际，啵奇塔牺牲自己，把
+ 心脏给了他，让他复活并拥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -561,7 +561,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:入间同学入魔了 第三季 12
-DTSTART;VALUE=DATE:20231224
+DTSTART;VALUE=DATE:20221224
 DTSTAMP;VALUE=DATE:20221221
 UID:348699-12-746322
 CLASS:PUBLIC
@@ -1876,11 +1876,12 @@ DTSTART;VALUE=DATE:20221221
 DTSTAMP;VALUE=DATE:20221221
 UID:329114-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
- 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
- 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
- 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
- 者”、每天过着不起眼的生活、为了追求力量而修行
+DESCRIPTION:「记忆中的真实」\n\n\n主人公最强×压倒的中二
+ 病×因误会造成的严肃喜剧！？\n“影之实力者”\n既不
+ 是主人公，也不是终极大BOSS，而是平日里彻底隐藏自己
+ 的实力、在暗中介入事件并施展自身实力的存在。\n憧憬
+ 着“影之实力者”、每天过着不起眼的生活、为了追求
+ 力量而修行
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1895,6 +1896,21 @@ DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
  不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
  中介入事件并施展自身实力的存在。\n憧憬着“影之实力
  者”、每天过着不起眼的生活、为了追求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:无良公会 0
+DTSTART;VALUE=DATE:20221005
+DTSTAMP;VALUE=DATE:20221221
+UID:373712-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n“…我的青春，就仅此而已了吗？”
+ 虽是年轻人，但却是以公会第一的讨伐数而自豪的猎人
+ 基克尔。从小训练成为一流猎人…他的愿望居然是辞去
+ 工作！？为了找回失去的青春的一页，他想尽快退役，
+ 他的首要任务是培养继任者！但是，带着胡来的新人守
+ 卫的任务，不知为
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2079,12 +2095,27 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:无良公会 0
+DTSTART;VALUE=DATE:20221221
+DTSTAMP;VALUE=DATE:20221221
+UID:373712-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n“…我的青春，就仅此而已了吗？”
+ 虽是年轻人，但却是以公会第一的讨伐数而自豪的猎人
+ 基克尔。从小训练成为一流猎人…他的愿望居然是辞去
+ 工作！？为了找回失去的青春的一页，他想尽快退役，
+ 他的首要任务是培养继任者！但是，带着胡来的新人守
+ 卫的任务，不知为
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:无良公会 12
 DTSTART;VALUE=DATE:20221221
 DTSTAMP;VALUE=DATE:20221221
 UID:373712-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「今天不想回家／解谜小不点」\n\n\n“…我的
+DESCRIPTION:「今天不想回家／小小解谜人」\n\n\n“…我的
  青春，就仅此而已了吗？”虽是年轻人，但却是以公会
  第一的讨伐数而自豪的猎人基克尔。从小训练成为一流
  猎人…他的愿望居然是辞去工作！？为了找回失去的青
