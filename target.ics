@@ -758,6 +758,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:别当欧尼酱了！ 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20221227
+UID:378862-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
+ 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
+ 子里的美少女是自己而陷入混乱的时候，跳级进入大学
+ 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
+ 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
+ ，偶尔不得已
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:别当欧尼酱了！ 1
 DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20221227
@@ -927,21 +942,6 @@ SUMMARY:别当欧尼酱了！ 12
 DTSTART;VALUE=DATE:20230323
 DTSTAMP;VALUE=DATE:20221227
 UID:378862-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20221227
-UID:378862-0-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
  醒来发现自己变成了“女孩子”！？正当真寻不知道镜
@@ -1823,12 +1823,12 @@ DTSTART;VALUE=DATE:20221227
 DTSTAMP;VALUE=DATE:20221227
 UID:321885-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　　电次是个背负了父亲遗留下的庞
- 大债务，因此过着极端贫穷生活的少年，他救了恶魔啵
- 奇塔，并与它一起以恶魔猎人的身份斩杀低阶恶魔来换
- 取酬劳。有一天，流氓骗了电次，让他成为一堆恶魔的
- 祭品，电次在临死之际，啵奇塔牺牲自己，把心脏给了
- 他，让他复活并拥
+DESCRIPTION:「日本刀VS链锯」\n\n\n　　电次是个背负了父亲
+ 遗留下的庞大债务，因此过着极端贫穷生活的少年，他
+ 救了恶魔啵奇塔，并与它一起以恶魔猎人的身份斩杀低
+ 阶恶魔来换取酬劳。有一天，流氓骗了电次，让他成为
+ 一堆恶魔的祭品，电次在临死之际，啵奇塔牺牲自己，
+ 把心脏给了他，让他复活并拥
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
