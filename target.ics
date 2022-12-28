@@ -758,6 +758,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:别当欧尼酱了！ 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20221228
+UID:378862-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
+ 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
+ 子里的美少女是自己而陷入混乱的时候，跳级进入大学
+ 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
+ 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
+ ，偶尔不得已
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:别当欧尼酱了！ 1
 DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20221228
@@ -927,21 +942,6 @@ SUMMARY:别当欧尼酱了！ 12
 DTSTART;VALUE=DATE:20230323
 DTSTAMP;VALUE=DATE:20221228
 UID:378862-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20221228
-UID:378862-0-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
  醒来发现自己变成了“女孩子”！？正当真寻不知道镜
@@ -2003,12 +2003,12 @@ DTSTART;VALUE=DATE:20221228
 DTSTAMP;VALUE=DATE:20221228
 UID:375735-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n平凡的男子高中生柏树朝，像往常一
- 样走在一成不变的通学路上。\n然而，正和出门前无意间
- 打开的电视里播放的奇妙占卜说的一样，他在这个早晨
- 遭遇到了各种各样的灾难。\n在一个接一个发生的灾难中
- ，朝和5名少女发生了可说是最糟糕的相遇。\n当他身心
- 俱疲
+DESCRIPTION:「好歹穿上内裤吧」\n\n\n平凡的男子高中生柏
+ 树朝，像往常一样走在一成不变的通学路上。\n然而，正
+ 和出门前无意间打开的电视里播放的奇妙占卜说的一样
+ ，他在这个早晨遭遇到了各种各样的灾难。\n在一个接一
+ 个发生的灾难中，朝和5名少女发生了可说是最糟糕的相
+ 遇。\n当他身心俱疲
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2265,6 +2265,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:秋叶原冥途战争 0
+DTSTART;VALUE=DATE:20221013
+DTSTAMP;VALUE=DATE:20221228
+UID:389450-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n1999年春，因为憧憬可爱的女仆，一位
+ 少女来到了秋叶原。世纪末的秋叶原，有许多各式各样
+ 的女仆。俗称“猪崽小屋”的女仆咖啡今天也在营业中
+ ！一起新入职的新人女仆破天荒的竟是击球手。人气女
+ 仆、驯兽师以及秋叶原外生命体也会出现，红色球棒全
+ 力一挥！这
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:秋叶原冥途战争 2
 DTSTART;VALUE=DATE:20221013
 DTSTAMP;VALUE=DATE:20221228
@@ -2426,21 +2441,6 @@ DESCRIPTION:「萌之终末」\n\n\n1999年春，因为憧憬可爱的女
  在营业中！一起新入职的新人女仆破天荒的竟是击球手
  。人气女仆、驯兽师以及秋叶原外生命体也会出现，红
  色球棒全力一挥！这
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:秋叶原冥途战争 0
-DTSTART;VALUE=DATE:20221013
-DTSTAMP;VALUE=DATE:20221228
-UID:389450-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n1999年春，因为憧憬可爱的女仆，一位
- 少女来到了秋叶原。世纪末的秋叶原，有许多各式各样
- 的女仆。俗称“猪崽小屋”的女仆咖啡今天也在营业中
- ！一起新入职的新人女仆破天荒的竟是击球手。人气女
- 仆、驯兽师以及秋叶原外生命体也会出现，红色球棒全
- 力一挥！这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3551,6 +3551,105 @@ SUMMARY:想要成为影之实力者！ 13
 DTSTART;VALUE=DATE:20221228
 DTSTAMP;VALUE=DATE:20221228
 UID:329114-13-746322
+CLASS:PUBLIC
+DESCRIPTION:「为了消灭的血战」\n\n\n主人公最强×压倒的中
+ 二病×因误会造成的严肃喜剧！？\n“影之实力者”\n既
+ 不是主人公，也不是终极大BOSS，而是平日里彻底隐藏自
+ 己的实力、在暗中介入事件并施展自身实力的存在。\n憧
+ 憬着“影之实力者”、每天过着不起眼的生活、为了追
+ 求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:想要成为影之实力者！ 14
+DTSTART;VALUE=DATE:20230104
+DTSTAMP;VALUE=DATE:20221228
+UID:329114-14-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
+ 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
+ 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
+ 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
+ 者”、每天过着不起眼的生活、为了追求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:想要成为影之实力者！ 15
+DTSTART;VALUE=DATE:20230111
+DTSTAMP;VALUE=DATE:20221228
+UID:329114-15-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
+ 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
+ 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
+ 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
+ 者”、每天过着不起眼的生活、为了追求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:想要成为影之实力者！ 16
+DTSTART;VALUE=DATE:20230118
+DTSTAMP;VALUE=DATE:20221228
+UID:329114-16-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
+ 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
+ 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
+ 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
+ 者”、每天过着不起眼的生活、为了追求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:想要成为影之实力者！ 17
+DTSTART;VALUE=DATE:20230125
+DTSTAMP;VALUE=DATE:20221228
+UID:329114-17-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
+ 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
+ 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
+ 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
+ 者”、每天过着不起眼的生活、为了追求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:想要成为影之实力者！ 18
+DTSTART;VALUE=DATE:20230201
+DTSTAMP;VALUE=DATE:20221228
+UID:329114-18-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
+ 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
+ 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
+ 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
+ 者”、每天过着不起眼的生活、为了追求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:想要成为影之实力者！ 19
+DTSTART;VALUE=DATE:20230208
+DTSTAMP;VALUE=DATE:20221228
+UID:329114-19-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
+ 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
+ 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
+ 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
+ 者”、每天过着不起眼的生活、为了追求力量而修行
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:想要成为影之实力者！ 20
+DTSTART;VALUE=DATE:20230215
+DTSTAMP;VALUE=DATE:20221228
+UID:329114-20-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
  成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
