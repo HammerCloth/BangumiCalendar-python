@@ -25,12 +25,12 @@ DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20230105
 UID:374206-1-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n世界最强的间谍，世界最高的骗局！
- 阳炎宫·共同生活的规则：七个人共同生活、外出的时候
- 要认真的玩、用一切手段打倒我。各国展开间谍“影之
- 战争”的世界。任务成功率100%，但是性格有困难的精明
- 间谍·克劳斯，创立了挑战死亡率超过九成的“不可能任
- 务”的
+DESCRIPTION:「任务 《花园》Ⅰ」\n\n\n世界最强的间谍，世
+ 界最高的骗局！阳炎宫·共同生活的规则：七个人共同生
+ 活、外出的时候要认真的玩、用一切手段打倒我。各国
+ 展开间谍“影之战争”的世界。任务成功率100%，但是性
+ 格有困难的精明间谍·克劳斯，创立了挑战死亡率超过九
+ 成的“不可能任务”的
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -778,12 +778,12 @@ DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20230105
 UID:378862-1-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
+DESCRIPTION:「真寻与不得了的身体」\n\n\n某天，家里蹲的
+ 啃老族绪山真寻一觉醒来发现自己变成了“女孩子”！
+ ？正当真寻不知道镜子里的美少女是自己而陷入混乱的
+ 时候，跳级进入大学的科学家妹妹绪山美波里出现了。
+ 她透露在饮料里加了一种奇怪的药物！\n真寻最近2年一
+ 直疯狂宅家玩小黄游，偶尔不得已
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -793,12 +793,12 @@ DTSTART;VALUE=DATE:20230112
 DTSTAMP;VALUE=DATE:20230105
 UID:378862-2-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
+DESCRIPTION:「真寻与女孩子之日」\n\n\n某天，家里蹲的啃
+ 老族绪山真寻一觉醒来发现自己变成了“女孩子”！？
+ 正当真寻不知道镜子里的美少女是自己而陷入混乱的时
+ 候，跳级进入大学的科学家妹妹绪山美波里出现了。她
+ 透露在饮料里加了一种奇怪的药物！\n真寻最近2年一直
+ 疯狂宅家玩小黄游，偶尔不得已
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -953,6 +953,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:变成狗后被喜欢的人捡了。 0
+DTSTART;VALUE=DATE:20230105
+DTSTAMP;VALUE=DATE:20230105
+UID:374319-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n醒来后，发现自己变成了心仪的同班
+ 同学 犬饲 养的狗！在学校面无表情的她，其实超爱狗的
+ ！散步、洗澡、上厕所——被当作狗饲养的每一天突发
+ 事件都不断。虽然想早点变回人类，但是被喜欢的人彻
+ 底爱着的生活是幸福的......再这样下去，身心都会变成
+ 狗！
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:变成狗后被喜欢的人捡了。 1
 DTSTART;VALUE=DATE:20230106
 DTSTAMP;VALUE=DATE:20230105
@@ -968,10 +983,40 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:变成狗后被喜欢的人捡了。 0
+DTSTART;VALUE=DATE:20230329
+DTSTAMP;VALUE=DATE:20230105
+UID:374319-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n醒来后，发现自己变成了心仪的同班
+ 同学 犬饲 养的狗！在学校面无表情的她，其实超爱狗的
+ ！散步、洗澡、上厕所——被当作狗饲养的每一天突发
+ 事件都不断。虽然想早点变回人类，但是被喜欢的人彻
+ 底爱着的生活是幸福的......再这样下去，身心都会变成
+ 狗！
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:变成狗后被喜欢的人捡了。 2
 DTSTART;VALUE=DATE:20230113
 DTSTAMP;VALUE=DATE:20230105
 UID:374319-2-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n醒来后，发现自己变成了心仪的同班
+ 同学 犬饲 养的狗！在学校面无表情的她，其实超爱狗的
+ ！散步、洗澡、上厕所——被当作狗饲养的每一天突发
+ 事件都不断。虽然想早点变回人类，但是被喜欢的人彻
+ 底爱着的生活是幸福的......再这样下去，身心都会变成
+ 狗！
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:变成狗后被喜欢的人捡了。 0
+DTSTART;VALUE=DATE:20230426
+DTSTAMP;VALUE=DATE:20230105
+UID:374319-0-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n醒来后，发现自己变成了心仪的同班
  同学 犬饲 养的狗！在学校面无表情的她，其实超爱狗的
