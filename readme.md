@@ -28,13 +28,16 @@
 #### 1. fork项目到你的仓库中
 
 #### 2. 在GitHub setting 中配置sercet
+![image](https://github.com/HammerCloth/BangumiCalendar-python/blob/main/IMG/iShot_2023-01-14_18.18.48.png)
 
 ```yaml
 name ： USERID
 value ： 你的bgm用户id
 ```
+#### 3. 开放github action 权限
+![image](https://github.com/HammerCloth/BangumiCalendar-python/blob/main/IMG/iShot_2023-01-14_18.19.52.png)
 
-#### 3. 在系统日历中订阅如下链接
+#### 4. 在系统日历中订阅如下链接
 
 > 你也可以直接下载下来target.ics文件拖到日历中，但是这样就无法自动更新了
 
