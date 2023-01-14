@@ -18,7 +18,8 @@ class data:
 
     def getsubjects(self):
         params = {
-            "type": 3  # 表示在看
+            "type": 3,# 表示在看
+            "subject_type": 2 # 限定番剧
         }
         page = requests.get(url=self.projectUrl, headers=self.headers, params=params)
         projects = page.json()["data"]
