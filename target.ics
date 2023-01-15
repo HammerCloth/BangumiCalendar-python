@@ -160,12 +160,12 @@ DTSTART;VALUE=DATE:20230115
 DTSTAMP;VALUE=DATE:20230115
 UID:366165-2-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n一直都过得很平凡，不管是运动还是
- 读书都差强人意，绝对无法成为第一名的普通人——斋
- 藤，被召唤到了异世界。即使在异世界，斋藤也绝非是
- 特别的，一点都不强。但在与超有个性的伙伴一起挑战
- 攻略迷宫的过程中，告诉严重健忘的魔法师咒语、用身
- 体当盾来保护小妖
+DESCRIPTION:「斋藤先生能做些什么」\n\n\n一直都过得很平
+ 凡，不管是运动还是读书都差强人意，绝对无法成为第
+ 一名的普通人——斋藤，被召唤到了异世界。即使在异
+ 世界，斋藤也绝非是特别的，一点都不强。但在与超有
+ 个性的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘
+ 的魔法师咒语、用身体当盾来保护小妖
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1021,6 +1021,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:孤独摇滚！ 0
+DTSTART;VALUE=DATE:20221001
+DTSTAMP;VALUE=DATE:20230115
+UID:328609-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
+ 好评的后藤一里，在现实中却是个什么都不会的沟通障
+ 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
+ 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
+ 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
+ 全没有和他人合作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:孤独摇滚！ 3
 DTSTART;VALUE=DATE:20221022
 DTSTAMP;VALUE=DATE:20230115
@@ -1032,6 +1047,21 @@ DESCRIPTION:「火速增员」\n\n\n作为网络吉他手“吉他英雄
  向人主动搭话而一直没有成功，直到一天在公园中被伊
  地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。
  可是，完全没有和他人合作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:孤独摇滚！ 0
+DTSTART;VALUE=DATE:20221207
+DTSTAMP;VALUE=DATE:20230115
+UID:328609-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
+ 好评的后藤一里，在现实中却是个什么都不会的沟通障
+ 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
+ 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
+ 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
+ 全没有和他人合作
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1167,36 +1197,6 @@ DESCRIPTION:「晨光落在你身上」\n\n\n作为网络吉他手“吉
  为不敢向人主动搭话而一直没有成功，直到一天在公园
  中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐
  队”。可是，完全没有和他人合作
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:孤独摇滚！ 0
-DTSTART;VALUE=DATE:20221001
-DTSTAMP;VALUE=DATE:20230115
-UID:328609-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
- 好评的后藤一里，在现实中却是个什么都不会的沟通障
- 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
- 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
- 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
- 全没有和他人合作
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:孤独摇滚！ 0
-DTSTART;VALUE=DATE:20221207
-DTSTAMP;VALUE=DATE:20230115
-UID:328609-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
- 好评的后藤一里，在现实中却是个什么都不会的沟通障
- 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
- 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
- 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
- 全没有和他人合作
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
