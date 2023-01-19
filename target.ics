@@ -1021,6 +1021,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:孤独摇滚！ 0
+DTSTART;VALUE=DATE:20221001
+DTSTAMP;VALUE=DATE:20230119
+UID:328609-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
+ 好评的后藤一里，在现实中却是个什么都不会的沟通障
+ 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
+ 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
+ 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
+ 全没有和他人合作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:孤独摇滚！ 3
 DTSTART;VALUE=DATE:20221022
 DTSTAMP;VALUE=DATE:20230119
@@ -1032,6 +1047,21 @@ DESCRIPTION:「火速增员」\n\n\n作为网络吉他手“吉他英雄
  向人主动搭话而一直没有成功，直到一天在公园中被伊
  地知虹夏发现并邀请进入缺少吉他手的“结束乐队”。
  可是，完全没有和他人合作
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:孤独摇滚！ 0
+DTSTART;VALUE=DATE:20221207
+DTSTAMP;VALUE=DATE:20230119
+UID:328609-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
+ 好评的后藤一里，在现实中却是个什么都不会的沟通障
+ 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
+ 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
+ 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
+ 全没有和他人合作
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1167,36 +1197,6 @@ DESCRIPTION:「晨光落在你身上」\n\n\n作为网络吉他手“吉
  为不敢向人主动搭话而一直没有成功，直到一天在公园
  中被伊地知虹夏发现并邀请进入缺少吉他手的“结束乐
  队”。可是，完全没有和他人合作
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:孤独摇滚！ 0
-DTSTART;VALUE=DATE:20221001
-DTSTAMP;VALUE=DATE:20230119
-UID:328609-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
- 好评的后藤一里，在现实中却是个什么都不会的沟通障
- 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
- 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
- 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
- 全没有和他人合作
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:孤独摇滚！ 0
-DTSTART;VALUE=DATE:20221207
-DTSTAMP;VALUE=DATE:20230119
-UID:328609-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n作为网络吉他手“吉他英雄”而广受
- 好评的后藤一里，在现实中却是个什么都不会的沟通障
- 碍者。一里有着组建乐队的梦想，但因为不敢向人主动
- 搭话而一直没有成功，直到一天在公园中被伊地知虹夏
- 发现并邀请进入缺少吉他手的“结束乐队”。可是，完
- 全没有和他人合作
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2918,21 +2918,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20230119
-UID:378862-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:别当欧尼酱了！ 1
 DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20230119
@@ -2983,12 +2968,12 @@ DTSTART;VALUE=DATE:20230126
 DTSTAMP;VALUE=DATE:20230119
 UID:378862-4-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
+DESCRIPTION:「真寻与新朋友」\n\n\n某天，家里蹲的啃老族
+ 绪山真寻一觉醒来发现自己变成了“女孩子”！？正当
+ 真寻不知道镜子里的美少女是自己而陷入混乱的时候，
+ 跳级进入大学的科学家妹妹绪山美波里出现了。她透露
+ 在饮料里加了一种奇怪的药物！\n真寻最近2年一直疯狂
+ 宅家玩小黄游，偶尔不得已
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3102,6 +3087,21 @@ SUMMARY:别当欧尼酱了！ 12
 DTSTART;VALUE=DATE:20230323
 DTSTAMP;VALUE=DATE:20230119
 UID:378862-12-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
+ 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
+ 子里的美少女是自己而陷入混乱的时候，跳级进入大学
+ 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
+ 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
+ ，偶尔不得已
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:别当欧尼酱了！ 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20230119
+UID:378862-0-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
  醒来发现自己变成了“女孩子”！？正当真寻不知道镜
@@ -3343,11 +3343,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-1-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「怪异六兄妹」\n\n\n漫画家伊藤潤二の作品を
+ 題材にした\n伊藤潤二『マニアック』\n2023年、全世界独
+ 占配信決定\n\nこの度初めてアニメ化されるのは\n◆富
+ 江\n◆双一\n◆首吊り気球\nを含む20タイトル！\n\n日本
+ のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3357,11 +3357,12 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-2-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「隧道奇谭／卖冰淇淋的车子」\n\n\n漫画家伊
+ 藤潤二の作品を題材にした\n伊藤潤二『マニアック』\n2
+ 023年、全世界独占配信決定\n\nこの度初めてアニメ化さ
+ れるのは\n◆富江\n◆双一\n◆首吊り気球\nを含む20タイ
+ トル！\n\n日本のホラー漫画界を牽引してきた鬼才・伊
+ 藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3371,11 +3372,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-3-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「人头气球」\n\n\n漫画家伊藤潤二の作品を題
+ 材にした\n伊藤潤二『マニアック』\n2023年、全世界独占
+ 配信決定\n\nこの度初めてアニメ化されるのは\n◆富江\n
+ ◆双一\n◆首吊り気球\nを含む20タイトル！\n\n日本のホ
+ ラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3385,11 +3386,12 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-4-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「四道墙的房间／睡魔的房间」\n\n\n漫画家伊
+ 藤潤二の作品を題材にした\n伊藤潤二『マニアック』\n2
+ 023年、全世界独占配信決定\n\nこの度初めてアニメ化さ
+ れるのは\n◆富江\n◆双一\n◆首吊り気球\nを含む20タイ
+ トル！\n\n日本のホラー漫画界を牽引してきた鬼才・伊
+ 藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3399,11 +3401,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-5-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「侵入者／阁楼的长发」\n\n\n漫画家伊藤潤二
+ の作品を題材にした\n伊藤潤二『マニアック』\n2023年、
+ 全世界独占配信決定\n\nこの度初めてアニメ化されるの
+ は\n◆富江\n◆双一\n◆首吊り気球\nを含む20タイトル！\
+ n\n日本のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3413,11 +3415,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-6-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「霉／藏书幻影」\n\n\n漫画家伊藤潤二の作品
+ を題材にした\n伊藤潤二『マニアック』\n2023年、全世界
+ 独占配信決定\n\nこの度初めてアニメ化されるのは\n◆
+ 富江\n◆双一\n◆首吊り気球\nを含む20タイトル！\n\n日
+ 本のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3427,11 +3429,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-7-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「墓碑镇」\n\n\n漫画家伊藤潤二の作品を題材
+ にした\n伊藤潤二『マニアック』\n2023年、全世界独占配
+ 信決定\n\nこの度初めてアニメ化されるのは\n◆富江\n◆
+ 双一\n◆首吊り気球\nを含む20タイトル！\n\n日本のホラ
+ ー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3441,11 +3443,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-8-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「恐怖层／漂到岸上的怪物」\n\n\n漫画家伊藤
+ 潤二の作品を題材にした\n伊藤潤二『マニアック』\n2023
+ 年、全世界独占配信決定\n\nこの度初めてアニメ化され
+ るのは\n◆富江\n◆双一\n◆首吊り気球\nを含む20タイト
+ ル！\n\n日本のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3455,11 +3457,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-9-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「富江・照片」\n\n\n漫画家伊藤潤二の作品を
+ 題材にした\n伊藤潤二『マニアック』\n2023年、全世界独
+ 占配信決定\n\nこの度初めてアニメ化されるのは\n◆富
+ 江\n◆双一\n◆首吊り気球\nを含む20タイトル！\n\n日本
+ のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3469,11 +3471,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-10-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「无尽的迷路／坏小孩」\n\n\n漫画家伊藤潤二
+ の作品を題材にした\n伊藤潤二『マニアック』\n2023年、
+ 全世界独占配信決定\n\nこの度初めてアニメ化されるの
+ は\n◆富江\n◆双一\n◆首吊り気球\nを含む20タイトル！\
+ n\n日本のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3483,11 +3485,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-11-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「鬼巷／无头雕刻」\n\n\n漫画家伊藤潤二の作
+ 品を題材にした\n伊藤潤二『マニアック』\n2023年、全世
+ 界独占配信決定\n\nこの度初めてアニメ化されるのは\n
+ ◆富江\n◆双一\n◆首吊り気球\nを含む20タイトル！\n\n
+ 日本のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3497,11 +3499,11 @@ DTSTART;VALUE=DATE:20230119
 DTSTAMP;VALUE=DATE:20230119
 UID:384280-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n漫画家伊藤潤二の作品を題材にした\n
- 伊藤潤二『マニアック』\n2023年、全世界独占配信決定\n
- \nこの度初めてアニメ化されるのは\n◆富江\n◆双一\n◆
- 首吊り気球\nを含む20タイトル！\n\n日本のホラー漫画界
- を牽引してきた鬼才・伊藤
+DESCRIPTION:「耳语的女人／双一的爱宠」\n\n\n漫画家伊藤
+ 潤二の作品を題材にした\n伊藤潤二『マニアック』\n2023
+ 年、全世界独占配信決定\n\nこの度初めてアニメ化され
+ るのは\n◆富江\n◆双一\n◆首吊り気球\nを含む20タイト
+ ル！\n\n日本のホラー漫画界を牽引してきた鬼才・伊藤
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -4166,21 +4168,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:秋叶原冥途战争 0
-DTSTART;VALUE=DATE:20221013
-DTSTAMP;VALUE=DATE:20230119
-UID:389450-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n1999年春，因为憧憬可爱的女仆，一位
- 少女来到了秋叶原。世纪末的秋叶原，有许多各式各样
- 的女仆。俗称“猪崽小屋”的女仆咖啡今天也在营业中
- ！一起新入职的新人女仆破天荒的竟是击球手。人气女
- 仆、驯兽师以及秋叶原外生命体也会出现，红色球棒全
- 力一挥！这
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:秋叶原冥途战争 2
 DTSTART;VALUE=DATE:20221013
 DTSTAMP;VALUE=DATE:20230119
@@ -4342,6 +4329,21 @@ DESCRIPTION:「萌之终末」\n\n\n1999年春，因为憧憬可爱的女
  在营业中！一起新入职的新人女仆破天荒的竟是击球手
  。人气女仆、驯兽师以及秋叶原外生命体也会出现，红
  色球棒全力一挥！这
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:秋叶原冥途战争 0
+DTSTART;VALUE=DATE:20221013
+DTSTAMP;VALUE=DATE:20230119
+UID:389450-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n1999年春，因为憧憬可爱的女仆，一位
+ 少女来到了秋叶原。世纪末的秋叶原，有许多各式各样
+ 的女仆。俗称“猪崽小屋”的女仆咖啡今天也在营业中
+ ！一起新入职的新人女仆破天荒的竟是击球手。人气女
+ 仆、驯兽师以及秋叶原外生命体也会出现，红色球棒全
+ 力一挥！这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
