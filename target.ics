@@ -756,11 +756,12 @@ DTSTART;VALUE=DATE:20230125
 DTSTAMP;VALUE=DATE:20230125
 UID:329114-17-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n主人公最强×压倒的中二病×因误会造
- 成的严肃喜剧！？\n“影之实力者”\n既不是主人公，也
- 不是终极大BOSS，而是平日里彻底隐藏自己的实力、在暗
- 中介入事件并施展自身实力的存在。\n憧憬着“影之实力
- 者”、每天过着不起眼的生活、为了追求力量而修行
+DESCRIPTION:「照进黑暗的月光」\n\n\n主人公最强×压倒的中
+ 二病×因误会造成的严肃喜剧！？\n“影之实力者”\n既
+ 不是主人公，也不是终极大BOSS，而是平日里彻底隐藏自
+ 己的实力、在暗中介入事件并施展自身实力的存在。\n憧
+ 憬着“影之实力者”、每天过着不起眼的生活、为了追
+ 求力量而修行
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1434,21 +1435,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20230125
-UID:378862-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:别当欧尼酱了！ 1
 DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20230125
@@ -1618,6 +1604,21 @@ SUMMARY:别当欧尼酱了！ 12
 DTSTART;VALUE=DATE:20230323
 DTSTAMP;VALUE=DATE:20230125
 UID:378862-12-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
+ 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
+ 子里的美少女是自己而陷入混乱的时候，跳级进入大学
+ 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
+ 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
+ ，偶尔不得已
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:别当欧尼酱了！ 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20230125
+UID:378862-0-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
  醒来发现自己变成了“女孩子”！？正当真寻不知道镜
