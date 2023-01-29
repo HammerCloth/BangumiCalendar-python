@@ -145,12 +145,12 @@ DTSTART;VALUE=DATE:20230129
 DTSTAMP;VALUE=DATE:20230129
 UID:366165-4-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n一直都过得很平凡，不管是运动还是
- 读书都差强人意，绝对无法成为第一名的普通人——斋
- 藤，被召唤到了异世界。即使在异世界，斋藤也绝非是
- 特别的，一点都不强。但在与超有个性的伙伴一起挑战
- 攻略迷宫的过程中，告诉严重健忘的魔法师咒语、用身
- 体当盾来保护小妖
+DESCRIPTION:「新时代正式开幕」\n\n\n一直都过得很平凡，
+ 不管是运动还是读书都差强人意，绝对无法成为第一名
+ 的普通人——斋藤，被召唤到了异世界。即使在异世界
+ ，斋藤也绝非是特别的，一点都不强。但在与超有个性
+ 的伙伴一起挑战攻略迷宫的过程中，告诉严重健忘的魔
+ 法师咒语、用身体当盾来保护小妖
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1435,21 +1435,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20230129
-UID:378862-0-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:别当欧尼酱了！ 1
 DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20230129
@@ -1630,6 +1615,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:别当欧尼酱了！ 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20230129
+UID:378862-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
+ 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
+ 子里的美少女是自己而陷入混乱的时候，跳级进入大学
+ 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
+ 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
+ ，偶尔不得已
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:生而为狗，我很幸福 0
 DTSTART;VALUE=DATE:20230105
 DTSTAMP;VALUE=DATE:20230129
@@ -1725,12 +1725,12 @@ DTSTART;VALUE=DATE:20230127
 DTSTAMP;VALUE=DATE:20230129
 UID:374319-4-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n醒来后，发现自己变成了心仪的同班
- 同学 犬饲 养的狗！在学校面无表情的她，其实超爱狗的
- ！散步、洗澡、上厕所——被当作狗饲养的每一天突发
- 事件都不断。虽然想早点变回人类，但是被喜欢的人彻
- 底爱着的生活是幸福的......再这样下去，身心都会变成
- 狗！
+DESCRIPTION:「狗狗的想法」\n\n\n醒来后，发现自己变成了
+ 心仪的同班同学 犬饲 养的狗！在学校面无表情的她，其
+ 实超爱狗的！散步、洗澡、上厕所——被当作狗饲养的
+ 每一天突发事件都不断。虽然想早点变回人类，但是被
+ 喜欢的人彻底爱着的生活是幸福的......再这样下去，身
+ 心都会变成狗！
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
