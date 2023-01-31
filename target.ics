@@ -1320,12 +1320,12 @@ DTSTART;VALUE=DATE:20230207
 DTSTAMP;VALUE=DATE:20230131
 UID:346425-5-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n那一天，身经百战的冒险者队伍所属
- 的尼克，被如父亲一般仰慕的队长宣布驱逐。在算账和
- 知识方面支持着吊儿郎当的队友的他，却被诬陷贪污。
- 被恋人甩后彻底落魄了的尼克，偶然在酒馆和同席的原
- 贵族小姐、开除教籍的神官、女龙战士意气相投。三个
- 人都是遭人背叛，
+DESCRIPTION:「铁虎队、狭路相逢。」\n\n\n那一天，身经百
+ 战的冒险者队伍所属的尼克，被如父亲一般仰慕的队长
+ 宣布驱逐。在算账和知识方面支持着吊儿郎当的队友的
+ 他，却被诬陷贪污。被恋人甩后彻底落魄了的尼克，偶
+ 然在酒馆和同席的原贵族小姐、开除教籍的神官、女龙
+ 战士意气相投。三个人都是遭人背叛，
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1431,6 +1431,21 @@ DESCRIPTION:「」\n\n\n那一天，身经百战的冒险者队伍所属
  被恋人甩后彻底落魄了的尼克，偶然在酒馆和同席的原
  贵族小姐、开除教籍的神官、女龙战士意气相投。三个
  人都是遭人背叛，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:别当欧尼酱了！ 0
+DTSTART;VALUE=DATE:20221223
+DTSTAMP;VALUE=DATE:20230131
+UID:378862-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
+ 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
+ 子里的美少女是自己而陷入混乱的时候，跳级进入大学
+ 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
+ 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
+ ，偶尔不得已
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1604,21 +1619,6 @@ SUMMARY:别当欧尼酱了！ 12
 DTSTART;VALUE=DATE:20230323
 DTSTAMP;VALUE=DATE:20230131
 UID:378862-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
- 醒来发现自己变成了“女孩子”！？正当真寻不知道镜
- 子里的美少女是自己而陷入混乱的时候，跳级进入大学
- 的科学家妹妹绪山美波里出现了。她透露在饮料里加了
- 一种奇怪的药物！\n真寻最近2年一直疯狂宅家玩小黄游
- ，偶尔不得已
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:别当欧尼酱了！ 0
-DTSTART;VALUE=DATE:20221223
-DTSTAMP;VALUE=DATE:20230131
-UID:378862-0-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n某天，家里蹲的啃老族绪山真寻一觉
  醒来发现自己变成了“女孩子”！？正当真寻不知道镜
