@@ -159,20 +159,6 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 12
-DTSTART;VALUE=DATE:20230628
-DTSTAMP;VALUE=DATE:20230413
-UID:386809-12-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“在演艺圈里，谎言就是武器。 ”\n
- 在小城市工作的妇产科医生・五郎，有一天他所推的偶
- 像“B小町”出现在了他的面前。“B小町”有着一个禁忌
- 的秘密。\n如此这般的两人实现了最糟糕的相遇，从此命
- 运的齿轮开始转动——
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:【我推的孩子】 0
 DTSTART;VALUE=DATE:20230219
 DTSTAMP;VALUE=DATE:20230413
@@ -778,11 +764,12 @@ DTSTART;VALUE=DATE:20230413
 DTSTAMP;VALUE=DATE:20230413
 UID:394997-1-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n耳が聞こえず、話すことができない
- 非力な王子・ボッジと、\nその親友・カゲの冒険を描い
- たＴＶアニメ「王様ランキング」。\n\nそして本作「王
- 様ランキング 勇気の宝箱」では、\nボッジやカゲ、彼
- らの周りに集いし仲間たちの、\n知られざる〝勇気の
+DESCRIPTION:「卡克的差事／王子和金钱」\n\n\n耳が聞こえ
+ ず、話すことができない非力な王子・ボッジと、\nその
+ 親友・カゲの冒険を描いたＴＶアニメ「王様ランキン
+ グ」。\n\nそして本作「王様ランキング 勇気の宝箱」で
+ は、\nボッジやカゲ、彼らの周りに集いし仲間たちの、
+ \n知られざる〝勇気の
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -903,34 +890,6 @@ SUMMARY:国王排名 勇气的宝箱 10
 DTSTART;VALUE=DATE:20230615
 DTSTAMP;VALUE=DATE:20230413
 UID:394997-10-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n耳が聞こえず、話すことができない
- 非力な王子・ボッジと、\nその親友・カゲの冒険を描い
- たＴＶアニメ「王様ランキング」。\n\nそして本作「王
- 様ランキング 勇気の宝箱」では、\nボッジやカゲ、彼
- らの周りに集いし仲間たちの、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 11
-DTSTART;VALUE=DATE:20230622
-DTSTAMP;VALUE=DATE:20230413
-UID:394997-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n耳が聞こえず、話すことができない
- 非力な王子・ボッジと、\nその親友・カゲの冒険を描い
- たＴＶアニメ「王様ランキング」。\n\nそして本作「王
- 様ランキング 勇気の宝箱」では、\nボッジやカゲ、彼
- らの周りに集いし仲間たちの、\n知られざる〝勇気の
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:国王排名 勇气的宝箱 12
-DTSTART;VALUE=DATE:20230629
-DTSTAMP;VALUE=DATE:20230413
-UID:394997-12-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n耳が聞こえず、話すことができない
  非力な王子・ボッジと、\nその親友・カゲの冒険を描い
@@ -1315,12 +1274,12 @@ DTSTART;VALUE=DATE:20230413
 DTSTAMP;VALUE=DATE:20230413
 UID:363101-2-746322
 CLASS:PUBLIC
-DESCRIPTION:「想要=正义」\n\n\n自全人类被神秘现象瞬间石
- 化之后，已过去了几千年——\n千空，一个有着超越常人
- 的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已经
- 灭绝的石之世界，千空决心以科学的力量重建地球，他
- 找来了同伴，建立起了“科学王国”。\n但是，他们碰上
- 了由灵长类最
+DESCRIPTION:「欲望即正义」\n\n\n自全人类被神秘现象瞬间
+ 石化之后，已过去了几千年——\n千空，一个有着超越常
+ 人的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已
+ 经灭绝的石之世界，千空决心以科学的力量重建地球，
+ 他找来了同伴，建立起了“科学王国”。\n但是，他们碰
+ 上了由灵长类最
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1330,12 +1289,12 @@ DTSTART;VALUE=DATE:20230420
 DTSTAMP;VALUE=DATE:20230413
 UID:363101-3-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n自全人类被神秘现象瞬间石化之后，
- 已过去了几千年——\n千空，一个有着超越常人的头脑，
- 彻头彻尾的科学少年醒来了。\n面对着文明已经灭绝的石
- 之世界，千空决心以科学的力量重建地球，他找来了同
- 伴，建立起了“科学王国”。\n但是，他们碰上了由灵长
- 类最
+DESCRIPTION:「第一次接触」\n\n\n自全人类被神秘现象瞬间
+ 石化之后，已过去了几千年——\n千空，一个有着超越常
+ 人的头脑，彻头彻尾的科学少年醒来了。\n面对着文明已
+ 经灭绝的石之世界，千空决心以科学的力量重建地球，
+ 他找来了同伴，建立起了“科学王国”。\n但是，他们碰
+ 上了由灵长类最
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1449,21 +1408,6 @@ SUMMARY:新石纪 NEW WORLD 11
 DTSTART;VALUE=DATE:20230615
 DTSTAMP;VALUE=DATE:20230413
 UID:363101-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n自全人类被神秘现象瞬间石化之后，
- 已过去了几千年——\n千空，一个有着超越常人的头脑，
- 彻头彻尾的科学少年醒来了。\n面对着文明已经灭绝的石
- 之世界，千空决心以科学的力量重建地球，他找来了同
- 伴，建立起了“科学王国”。\n但是，他们碰上了由灵长
- 类最
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:新石纪 NEW WORLD 12
-DTSTART;VALUE=DATE:20230622
-DTSTAMP;VALUE=DATE:20230413
-UID:363101-12-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n自全人类被神秘现象瞬间石化之后，
  已过去了几千年——\n千空，一个有着超越常人的头脑，
