@@ -1222,10 +1222,10 @@ DTSTART;VALUE=DATE:20230604
 DTSTAMP;VALUE=DATE:20230528
 UID:369768-9-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n故事来到了新的地方——炭治郎的目
- 的地是「刀匠村」。与鬼杀队的最强剑士，霞柱·时透无
- 一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼近。炭治郎
- 一行人新的战斗即将开始。
+DESCRIPTION:「霞柱 时透无一郎」\n\n\n故事来到了新的地方
+ ——炭治郎的目的地是「刀匠村」。与鬼杀队的最强剑
+ 士，霞柱·时透无一郎与恋柱·甘露寺蜜璃再会，而鬼也
+ 悄然逼近。炭治郎一行人新的战斗即将开始。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1247,19 +1247,6 @@ SUMMARY:鬼灭之刃 刀匠村篇 11
 DTSTART;VALUE=DATE:20230618
 DTSTAMP;VALUE=DATE:20230528
 UID:369768-11-746322
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n故事来到了新的地方——炭治郎的目
- 的地是「刀匠村」。与鬼杀队的最强剑士，霞柱·时透无
- 一郎与恋柱·甘露寺蜜璃再会，而鬼也悄然逼近。炭治郎
- 一行人新的战斗即将开始。
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:鬼灭之刃 刀匠村篇 12
-DTSTART;VALUE=DATE:20230625
-DTSTAMP;VALUE=DATE:20230528
-UID:369768-12-746322
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n故事来到了新的地方——炭治郎的目
  的地是「刀匠村」。与鬼杀队的最强剑士，霞柱·时透无
