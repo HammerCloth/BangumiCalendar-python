@@ -474,6 +474,20 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:僵尸百分百～在成为僵尸前要做的100件事～ 0
+DTSTART;VALUE=DATE:20230910
+DTSTAMP;VALUE=DATE:20230910
+UID:414461-0-746322
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n入职三年，在黑心企业被压榨到身心
+ 俱疲的天道辉（24岁）。\n\n对憧憬的经理凰纱织的恋爱
+ 也没法实现，每天都很绝望...\n\n某天，街上突然爆发了
+ 丧尸病毒！\n\n被大量僵尸追赶的天道辉，在走投无路中
+ 灵光一闪，想出了“改变人生的话”。\n
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:咒术回战 第二季 1
 DTSTART;VALUE=DATE:20230706
 DTSTAMP;VALUE=DATE:20230910
@@ -1021,11 +1035,11 @@ DTSTART;VALUE=DATE:20230917
 DTSTAMP;VALUE=DATE:20230910
 UID:373247-12-746322
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「俺は、この異世界で本気だす！」\n
- 34歳・童貞・無職の引きこもりニート男。\n両親の葬儀
- の日に家を追い出された瞬間、\nトラックに轢かれ命を
- 落としてしまう。\n目覚めると、なんと剣と魔法の\n異
- 世界で赤ん坊に生まれ変わっていた！\nゴミク
+DESCRIPTION:「给你」\n\n\n「俺は、この異世界で本気だす
+ ！」\n34歳・童貞・無職の引きこもりニート男。\n両親
+ の葬儀の日に家を追い出された瞬間、\nトラックに轢か
+ れ命を落としてしまう。\n目覚めると、なんと剣と魔法
+ の\n異世界で赤ん坊に生まれ変わっていた！\nゴミク
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
